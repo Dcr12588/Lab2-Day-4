@@ -110,6 +110,10 @@
 
 //Code Here
 
+// let myFavoriteNumbers = [4,8,12,16,20,24];
+
+// let someNum = myFavoriteNumbers[4]
+//   console.log(someNum)
 
 
 
@@ -120,6 +124,14 @@
 
 //Code Here
 
+
+let myFavoriteNumbers = [4,8,12,16,20,24];
+let someNum = myFavoriteNumbers[6]
+
+if (myFavoriteNumbers.length < 7){
+  console.log('Ther are not enough elements in this array')
+ }
+ else if(myFavoriteNumbers.length > 7 someNum.splice(6,0)
 
 ////////// PROBLEM 8 //////////
 
