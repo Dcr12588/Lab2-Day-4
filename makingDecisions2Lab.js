@@ -1,5 +1,5 @@
 // For problems 1-2 use the following lines of code:
-var arr = [10,20,30,40,50,60]
+// var arr = [10,20,30,40,50,60]
 
 ////////// PROBLEM 1 //////////
 /*
@@ -10,7 +10,7 @@ var arr = [10,20,30,40,50,60]
 
 
 
-let firstItem = arr[0]
+// let firstItem = arr[0]
 
 
 ////////// PROBLEM 2 //////////
@@ -20,11 +20,11 @@ let firstItem = arr[0]
 
 //Code Here
 
-var arr = [10,20,30,40,50,60]
+// var arr = [10,20,30,40,50,60]
 
-let lastItemRemoved = arr.pop()
+// let lastItemRemoved = arr.pop()
 
-console.log(arr)
+// console.log(arr)
 
 
 ////////// PROBLEM 3 //////////
@@ -39,11 +39,11 @@ console.log(arr)
 
 //Code Here
 
-let family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
+// let family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 
-for (let i= 0; i < family.length; i++){
-console.log(family[i])
-}
+// for (let i= 0; i < family.length; i++){
+// console.log(family[i])
+// }
 
 
 ////////// PROBLEM 4 //////////
@@ -59,10 +59,14 @@ console.log(family[i])
 
 //Code Here
 
-/ var nums = [1,2,3,6,22,98,45,23,22,12];
-let evensArr = []
+// var nums = [1,2,3,6,22,98,45,23,22,12];
+// let evensArr = []
 
-
+// for(let i = 0; i < nums.length; i++){
+//   if (i % 2 === 0){
+//     console.log(i)
+//   }
+// }
 
 ////////// PROBLEM 5 //////////
 
@@ -75,6 +79,21 @@ let evensArr = []
 */
 
 //Code Here
+
+// let score = 74
+
+// if( score >= 90){
+//   console.log(`A`)
+// } else if( score >= 80 && score <= 89){
+//   console.log(`B`)
+// } else if (score >= 70 && score <= 79){
+//   console.log(`C`)
+//   } else if (score >= 60 && score <= 69){
+//     console.log(`D`)
+//   }else if(score < 60){
+//     console.log(`F`)
+//   }
+
 
 
 ////////// Intermediate Problems //////////
@@ -90,6 +109,8 @@ let evensArr = []
 */
 
 //Code Here
+
+
 
 
 ////////// PROBLEM 7 //////////
