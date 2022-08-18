@@ -41,7 +41,7 @@ console.log(arr)
 
 let family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 
-for (let i= 0; i < family; i++){
+for (let i= 0; i < family.length; i++){
 console.log(family[i])
 }
 
@@ -58,6 +58,9 @@ console.log(family[i])
 */
 
 //Code Here
+
+/ var nums = [1,2,3,6,22,98,45,23,22,12];
+let evensArr = []
 
 
 
